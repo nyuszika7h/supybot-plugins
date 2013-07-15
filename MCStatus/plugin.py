@@ -85,7 +85,7 @@ class MCStatus(callbacks.Plugin):
         services = []
 
         for pair in data:
-            service, status = pair.keys()[0], pair.values()[0]
+            service, status = list(pair.keys())[0], list(pair.values())0]
 
             services.append('%s%s%s%s' % (svprefix, service, svsuffix,
                                           stonline if status == 'green' else \
