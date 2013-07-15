@@ -54,7 +54,7 @@ class MCStatus(callbacks.Plugin):
     variables.
     """
 
-   def __init__(self, irc):
+    def __init__(self, irc):
         self.__parent = super(MCStatus, self)
         self.__parent.__init__(irc)
 
