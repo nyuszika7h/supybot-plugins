@@ -31,7 +31,7 @@ servers. The output format is customizable via configuration variables.
 import supybot
 from supybot import world
 
-__version__ = '1.0.2'
+__version__ = '1.0.3'
 
 __author__ = supybot.Author('nyuszika7h', 'nyuszika7h',
                             'nyuszika7h@cadoth.net')
