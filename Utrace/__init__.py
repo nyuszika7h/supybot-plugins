@@ -38,7 +38,7 @@ __author__ = supybot.Author('nyuszika7h', 'nyuszika7h',
                             'nyuszika7h@cadoth.net')
 
 __contributors__ = {}
-:
+
 __url__ = 'https://github.com/nyuszika7h/Supybot-plugins/tarball/master'
 
 from . import config
