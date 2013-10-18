@@ -1,4 +1,5 @@
-# Python compiled files
+# Python
+__pycache__/
 *.py[cdo]
 
 # Backup files
