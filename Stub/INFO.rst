@@ -11,4 +11,4 @@ Feel free to use a different license if you wish.
 .. _Supybot: http://supybot.aperio.fr/
 .. _Gribble: http://sourceforge.net/apps/mediawiki/gribble/index.php?title=Main_Page
 
-.. _[1]: http://mkaysi.github.io/IRC/Supybot.html
+.. [1] http://mkaysi.github.io/IRC/Supybot.html
