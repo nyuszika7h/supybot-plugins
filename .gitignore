@@ -6,8 +6,8 @@ __pycache__/
 *~
 
 # Vim swap files
-.*.s[a-w][a-p]
-.s[a-w][a-p]
+.*.swp
+.swp
 
 # PyCharm
 .idea/
