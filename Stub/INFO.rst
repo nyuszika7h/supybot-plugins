@@ -1,10 +1,16 @@
-This is a plugin template created for Limnoria_. It should be compatible with
-Gribble_ and stock Supybot_ too.
+=====
+About
+=====
 
-Feel free to use this template for your own plugins provided that you change
-the author. Using a different license for your plugin is also allowed.
+This is a plugin template for Limnoria_. It should be compatible with Gribble_
+and stock Supybot_ as well.
 
-**A note about stock Supybot**
+Feel free to use it for your own plugins as long as you change the plugin
+author. It's also allowed to use a different license for your plugin.
+
+--------------------------
+A note about stock Supybot
+--------------------------
 
 Stock Supybot has many `security issues`_. You should consider using Limnoria_
 instead, it's the most up to date fork.
